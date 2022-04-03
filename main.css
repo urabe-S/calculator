@@ -1,0 +1,32 @@
+table {
+  border: 3px solid #8EB8FF ;
+  background-color: #BAD3FF ;
+  padding: 10px ;
+  border-radius: 10px ;
+}
+
+button {
+  width: 30px; 
+  height: 30px;
+  background-color: #FFFFFF ;
+  border-radius:5px;
+  border-color: #EEEEEE ;
+}
+
+#AC {
+  width: 65px; 
+  height: 30px;
+}
+
+#plus {
+  width: 30px; 
+  height: 65px;
+}
+
+#result {
+    font-size: 20px ; 
+    text-align: right ;
+    border: solid 1px ;
+    height: 35px ;
+    background-color: #FFFFFF ;
+}
